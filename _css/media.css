@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+div#tv-radio {
+	width: 900px;
+	height: 580px;
+	margin: auto;
+	background: url("../_imagens/video-frame.png") no-repeat;
+}
+
+iframe#video1 {
+	display: block;
+	position: relative;
+	left: 75px;
+	top: 15px;
+}
